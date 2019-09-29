@@ -64,7 +64,7 @@ The work is done.
 
 # How does it work
 
-The program will find the scores and SIDs of the stduents in your sections in `HW1.xlsx`, take the ceil integer of their socres, find the correct location according to the SID in `autograder.py` and add this integer score to the existed score there. So it is recommended to run the program after you have input the scores of the handwritten homework.
+The program will find the scores and SIDs of the stduents in your sections in `HW1.xlsx`, take the ceil integer of their socres, find the correct location according to the SID in `Gradesheet.xlsx` and add this integer score to the existed score there. So it is recommended to run the program after you have input the scores of the handwritten homework.
 
 # For Midterms and Final
 
