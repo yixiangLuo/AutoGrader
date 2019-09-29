@@ -28,13 +28,13 @@ To run the code, you should have python package [openpyxl](https://pypi.org/proj
 
     pip install openpyxl
 
-The code is done in Python 3, but it should also work well in Python 2.7 with some slight changes for grammar issue.
+The code is done in Python 3, but it should also work well in Python 2.7 with some slight changes for grammar issues.
 
 Now you have `autograder.py`, `Gradesheet.xlsx`, `HW1.xlsx`, `HW2.xlsx`, `HW3.xlsx` in the same folder. Run
 
     python autograder.py
 
-and you will see
+and you will see something like
 
     ************** HW1 **************
 
@@ -51,7 +51,7 @@ and you will see
     updating 1234567894: # WARNING: not in the gradesheet.
 
 
-    HW5 Finished: 3 updated in total.
+    HW1 Finished: 3 updated in total.
 
     *** section 2XY ***
     
