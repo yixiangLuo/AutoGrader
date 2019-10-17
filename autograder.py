@@ -221,7 +221,7 @@ if __name__ == "__main__":
     files = []
     file_showup = []
     for file_keyword in file_keywords:
-        file_path = glob.glob("./*"+file_keyword+"*xlsx")
+        file_path = glob.glob("./"+file_keyword+".xlsx")
         if len(file_path) == 1:
             files.append(file_path[0])
             file_showup.append(file_keyword)
